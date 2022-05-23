@@ -1,2 +1,2 @@
 # test program
-print('Game over')
+print('Game over -_-')
